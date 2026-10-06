@@ -1,0 +1,20 @@
+{
+  "comfortme_category": "Комфорт",
+  "comfortme_this_room": "Ця кімната",
+  "comfortme_unsheltered": "(без укриття)",
+  "comfortme_base": "База",
+  "comfortme_shelter": "Укриття",
+  "comfortme_missing": "немає",
+  "comfortme_group_fire": "Вогонь",
+  "comfortme_group_bed": "Ліжко",
+  "comfortme_group_banner": "Прапор",
+  "comfortme_group_chair": "Сидіння",
+  "comfortme_group_table": "Стіл",
+  "comfortme_group_carpet": "Килим",
+  "comfortme_group_display": "Вітрина",
+  "comfortme_group_decor": "Декор",
+  "comfortme_group_garland": "Гірлянда",
+  "comfortme_group_lantern": "Ліхтар",
+  "comfortme_group_leisure": "Дозвілля",
+  "comfortme_group_none": "Унікальний"
+}
